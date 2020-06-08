@@ -33,3 +33,8 @@ Gradient Boosting
 XGboost
 
 Deep Learning (sequential model)
+
+# Results
+
+The algorithm that showed the best results was XGboost, with an accuracy of 0.999. It was then used to make predictions. The interactive App with the results of these predictions can be accessed at the link
+https://naiufop.shinyapps.io/App_Mooc/
